@@ -1,16 +1,17 @@
-## Hi there 👋
+# The Red Shield
 
-<!--
-**the-red-shield/the-red-shield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OPSEC & OSINT dev. Naive optimism is a weakness. Awareness is survival.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----BEGIN PGP MESSAGE-----
+
+jA0ECQMIxBfXeUtgIAr80kwBJuG0xW313buoAvzbK/XgV8Zg2t6H73dDPdJcJ6KY
+UeLmMNfTGgN7xjUSE89b4rJPb5cfp9ek1GZls3k3ot/QO/uiUoSaz98JADTM
+=SI7t
+
+-----END PGP MESSAGE-----
+
+## Warning
+
+Everything here is for ethical use. Misuse it, and you’re on your own.
