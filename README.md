@@ -1,6 +1,6 @@
 # The Red Shield
 
-OPSEC & OSINT dev. Naive optimism is a weakness. Awareness is survival.
+Mathematician & developer.
 
 ## Contact
 
@@ -14,4 +14,4 @@ UeLmMNfTGgN7xjUSE89b4rJPb5cfp9ek1GZls3k3ot/QO/uiUoSaz98JADTM
 
 ## Warning
 
-Everything here is for ethical use. Misuse it, and you’re on your own.
+Everything here is for professional use. Misuse it, and you’re on your own.
